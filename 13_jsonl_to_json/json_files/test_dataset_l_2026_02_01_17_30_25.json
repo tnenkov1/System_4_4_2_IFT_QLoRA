@@ -1,0 +1,72 @@
+[
+    {
+        "instruction": "Heading 1",
+        "input": "Main text 1 Main text 2",
+        "output": ""
+    },
+    {
+        "instruction": "Main text 1 Main text 2",
+        "input": "Heading 1",
+        "output": ""
+    },
+    {
+        "instruction": "Heading 1",
+        "input": "// 1, * 1, - 1",
+        "output": ""
+    },
+    {
+        "instruction": "// 1, * 1, - 1",
+        "input": "Heading 1",
+        "output": ""
+    },
+    {
+        "instruction": "Subheading 1",
+        "input": "Main text 3 Main text 4",
+        "output": ""
+    },
+    {
+        "instruction": "Main text 3 Main text 4",
+        "input": "Subheading 1",
+        "output": ""
+    },
+    {
+        "instruction": "Subheading 1",
+        "input": "// 2, * 2, - 2",
+        "output": ""
+    },
+    {
+        "instruction": "// 2, * 2, - 2",
+        "input": "Subheading 1",
+        "output": ""
+    },
+    {
+        "instruction": "Heading 2",
+        "input": "Subheading 2, Subheading 3",
+        "output": ""
+    },
+    {
+        "instruction": "Subheading 2, Subheading 3",
+        "input": "Heading 2",
+        "output": ""
+    },
+    {
+        "instruction": "Subheading 3",
+        "input": "Main text 5 Main text 6",
+        "output": ""
+    },
+    {
+        "instruction": "Main text 5 Main text 6",
+        "input": "Subheading 3",
+        "output": ""
+    },
+    {
+        "instruction": "Subheading 3",
+        "input": "// 3, * 3, - 3",
+        "output": ""
+    },
+    {
+        "instruction": "// 3, * 3, - 3",
+        "input": "Subheading 3",
+        "output": ""
+    }
+]
