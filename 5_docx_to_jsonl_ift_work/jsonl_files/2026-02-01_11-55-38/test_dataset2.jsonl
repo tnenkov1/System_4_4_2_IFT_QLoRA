@@ -1,0 +1,4 @@
+{"instruction": "Heading 1", "input": "Main text 1 Main text 2", "output": "// 1 * 1 - 1"}
+{"instruction": "Heading 1", "input": "// 1 * 1 - 1", "output": "Main text 1 Main text 2"}
+{"instruction": "// 1 * 1 - 1", "input": "Main text 1 Main text 2", "output": "Heading 1"}
+{"instruction": "Main text 1 Main text 2", "input": "// 1 * 1 - 1", "output": "Heading 1"}
