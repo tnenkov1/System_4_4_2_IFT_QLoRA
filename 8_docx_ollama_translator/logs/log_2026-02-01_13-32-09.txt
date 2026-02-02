@@ -1,0 +1,5 @@
+[13:32:09] --- SESSION START ---
+[13:32:14] Selected languages: ['translate_ru.txt']
+[13:32:14] Starting translation: test.docx -> test_ru.docx
+[13:32:30] Successfully completed: test_ru.docx
+[13:32:30] --- SESSION END ---

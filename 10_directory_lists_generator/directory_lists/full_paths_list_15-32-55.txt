@@ -1,0 +1,38 @@
+FULL LIST FOR: C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts
+DATE AND TIME: 2026-02-01 15:32:55
+======================================================================
+
+Folders (Full Paths):
+
+Files (Full Paths):
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\prompt_list.json
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_ar.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_bg.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_cs.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_da.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_de.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_el.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_en.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_es.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_et.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_fi.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_fr.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_he.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_hi.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_hu.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_is.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_it.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_ja.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_lt.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_lv.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_nl.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_no.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_pl.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_pt.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_ro.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_ru.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_sr.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_sv.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_tr.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_uk.txt
+C:\Users\PC 1\Desktop\GitHub\8_docx_ollama_translator\prompts\translate_zh.txt

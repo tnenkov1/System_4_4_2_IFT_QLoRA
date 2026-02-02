@@ -1,0 +1,40 @@
+{"instruction": "Heading 1", "input": "Main text 1 Main text 2", "output": ""}
+{"instruction": "Main text 1 Main text 2", "input": "Heading 1", "output": ""}
+{"instruction": "Heading 1", "input": "// 1, * 1, - 1", "output": ""}
+{"instruction": "// 1, * 1, - 1", "input": "Heading 1", "output": ""}
+{"instruction": "Subheading 1", "input": "Main text 3 Main text 4", "output": ""}
+{"instruction": "Main text 3 Main text 4", "input": "Subheading 1", "output": ""}
+{"instruction": "Subheading 1", "input": "// 2, * 2, - 2", "output": ""}
+{"instruction": "// 2, * 2, - 2", "input": "Subheading 1", "output": ""}
+{"instruction": "Heading 2", "input": "Subheading 2, Subheading 3", "output": ""}
+{"instruction": "Subheading 2, Subheading 3", "input": "Heading 2", "output": ""}
+{"instruction": "Subheading 3", "input": "Main text 5 Main text 6", "output": ""}
+{"instruction": "Main text 5 Main text 6", "input": "Subheading 3", "output": ""}
+{"instruction": "Subheading 3", "input": "// 3, * 3, - 3", "output": ""}
+{"instruction": "// 3, * 3, - 3", "input": "Subheading 3", "output": ""}
+{"instruction": "", "input": "Main text 1 Main text 2", "output": "// 1, * 1, - 1"}
+{"instruction": "", "input": "// 1, * 1, - 1", "output": "Main text 1 Main text 2"}
+{"instruction": "", "input": "Heading 1", "output": "// 1 Main text 1 * 1 Main text 2 - 1"}
+{"instruction": "", "input": "// 1 Main text 1 * 1 Main text 2 - 1", "output": "Heading 1"}
+{"instruction": "", "input": "Main text 3 Main text 4", "output": "// 2, * 2, - 2"}
+{"instruction": "", "input": "// 2, * 2, - 2", "output": "Main text 3 Main text 4"}
+{"instruction": "", "input": "Subheading 1", "output": "// 2 Main text 3 * 2 Main text 4 - 2"}
+{"instruction": "", "input": "// 2 Main text 3 * 2 Main text 4 - 2", "output": "Subheading 1"}
+{"instruction": "", "input": "Heading 2", "output": "Subheading 2, Subheading 3"}
+{"instruction": "", "input": "Subheading 2, Subheading 3", "output": "Heading 2"}
+{"instruction": "", "input": "Main text 5 Main text 6", "output": "// 3, * 3, - 3"}
+{"instruction": "", "input": "// 3, * 3, - 3", "output": "Main text 5 Main text 6"}
+{"instruction": "", "input": "Subheading 3", "output": "// 3 Main text 5 * 3 Main text 6 - 3"}
+{"instruction": "", "input": "// 3 Main text 5 * 3 Main text 6 - 3", "output": "Subheading 3"}
+{"instruction": "Heading 1", "input": "Main text 1 Main text 2", "output": "// 1 * 1 - 1"}
+{"instruction": "Heading 1", "input": "// 1 * 1 - 1", "output": "Main text 1 Main text 2"}
+{"instruction": "// 1 * 1 - 1", "input": "Main text 1 Main text 2", "output": "Heading 1"}
+{"instruction": "Main text 1 Main text 2", "input": "// 1 * 1 - 1", "output": "Heading 1"}
+{"instruction": "Subheading 1", "input": "Main text 3 Main text 4", "output": "// 2 * 2 - 2"}
+{"instruction": "Subheading 1", "input": "// 2 * 2 - 2", "output": "Main text 3 Main text 4"}
+{"instruction": "// 2 * 2 - 2", "input": "Main text 3 Main text 4", "output": "Subheading 1"}
+{"instruction": "Main text 3 Main text 4", "input": "// 2 * 2 - 2", "output": "Subheading 1"}
+{"instruction": "Subheading 3", "input": "Main text 5 Main text 6", "output": "// 3 * 3 - 3"}
+{"instruction": "Subheading 3", "input": "// 3 * 3 - 3", "output": "Main text 5 Main text 6"}
+{"instruction": "// 3 * 3 - 3", "input": "Main text 5 Main text 6", "output": "Subheading 3"}
+{"instruction": "Main text 5 Main text 6", "input": "// 3 * 3 - 3", "output": "Subheading 3"}
