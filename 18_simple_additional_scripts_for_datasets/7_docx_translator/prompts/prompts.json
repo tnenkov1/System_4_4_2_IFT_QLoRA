@@ -1,0 +1,4 @@
+{
+  "bg-en": "prompts/translate_bg_en.txt",
+  "en-bg": "prompts/translate_en_bg.txt"
+}
