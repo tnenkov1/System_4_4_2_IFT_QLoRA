@@ -1,0 +1,1 @@
+This script generates three associations for each heading in the docx files.

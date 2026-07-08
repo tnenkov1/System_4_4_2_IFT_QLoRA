@@ -1,0 +1,1 @@
+This script generates 4 conditionals for each paragraph of a heading in the docx files.

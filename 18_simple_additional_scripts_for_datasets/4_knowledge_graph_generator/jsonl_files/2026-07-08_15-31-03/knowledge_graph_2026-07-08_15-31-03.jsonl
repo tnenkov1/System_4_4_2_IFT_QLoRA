@@ -1,0 +1,12 @@
+{"instruction": "", "input": "appliances", "output": "washing machine, refrigerator, oven, dishwasher, air conditioner, microwave, stove, vacuum cleaner, television, toaster"}
+{"instruction": "", "input": "washing machine, refrigerator, oven, dishwasher, air conditioner, microwave, stove, vacuum cleaner, television, toaster", "output": "appliances"}
+{"instruction": "", "input": "causes", "output": "triggers, effects, consequences, outcomes, results, impacts, repercussions, ramifications, aftermath, sequelae"}
+{"instruction": "", "input": "triggers, effects, consequences, outcomes, results, impacts, repercussions, ramifications, aftermath, sequelae", "output": "causes"}
+{"instruction": "", "input": "fires", "output": "flames, burn, heat, smoke, ashes, inferno, conflagration, blaze, pyre, ember"}
+{"instruction": "", "input": "flames, burn, heat, smoke, ashes, inferno, conflagration, blaze, pyre, ember", "output": "fires"}
+{"instruction": "", "input": "from", "output": "movement, journey, travel, departure, arrival, destination, transit, voyage, commute, expedition"}
+{"instruction": "", "input": "movement, journey, travel, departure, arrival, destination, transit, voyage, commute, expedition", "output": "from"}
+{"instruction": "", "input": "heating", "output": "cooling, warm, hot, freeze, frost, chilly, heat source, thermal, boiling, refrigeration"}
+{"instruction": "", "input": "cooling, warm, hot, freeze, frost, chilly, heat source, thermal, boiling, refrigeration", "output": "heating"}
+{"instruction": "", "input": "main", "output": "exploration, discovery, investigation, research, study, analysis, examination, inquiry, scrutiny"}
+{"instruction": "", "input": "exploration, discovery, investigation, research, study, analysis, examination, inquiry, scrutiny", "output": "main"}
